@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import App from './App'
+import {request} from './assets/uni.ajax.js'
 
 Vue.config.productionTip = false
 
